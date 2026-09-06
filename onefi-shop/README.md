@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/a49196f1-867b-41b5-9921-b950c778d5d2
+
 # 1Fi Shop
 
 A Vite + React recreation of the "Shop today, pay later using mutual funds" screen, with a
